@@ -34,7 +34,7 @@ const Index = () => {
           <TableCell align="right">Address</TableCell>
           <TableCell align="right">Email</TableCell>
           <TableCell align="right">Gender</TableCell>
-          <TableCell align="right">Phone</TableCell>
+          <TableCell align="right">Phone Number</TableCell>
         </TableRow>
       </TableHead>
       <TableBody>
